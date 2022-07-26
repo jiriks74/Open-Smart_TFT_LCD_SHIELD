@@ -1,0 +1,3 @@
+[submodule "Calibration/lib/OPENSMART_TFT"]
+	path = Calibration/lib/OPENSMART_TFT
+	url = https://github.com/fdufnews/OPENSMART_TFT.git
