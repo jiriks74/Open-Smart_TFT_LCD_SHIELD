@@ -53,8 +53,6 @@
 
 MCUFRIEND_kbv tft;
 
-M2M_LM75A tmp;
-
 // Touch screen pins for ILI9320:
 // ILI9320: YP=A2, XM=A3, YM=8, XP=9
 
